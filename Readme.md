@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Vlad Shpyra](https://up.htmlacademy.ru/javascript/21/user/331185).
-* Наставник: `Неизвестно`.
+* Наставник: [Андрей Лутогин](https://htmlacademy.ru/profile/id1096725)
 
 ---
 
